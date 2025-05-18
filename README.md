@@ -1,5 +1,5 @@
 # OpenVideoX
-OpenVideoX OSS 動画編集ソフトの開発前段階としての Hello World アプリです。
+OpenVideoX OSS 動画編集ソフトの開発を行っています！まだ未完成です。
 OpenVideoX は C#＋Avalonia UI のクロスプラットフォーム対応動画編集ソフトを目指しています
 
 aviutlのような多くの人が自由に使い倒せるソフトを作りたい。
