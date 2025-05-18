@@ -2,9 +2,9 @@
 *.user
 *.suo
 *.userosscache
-*.vscode\
-bin\
-obj\
+*.vscode/
+**/bin/
+**/obj/
 
 # OS
 .DS_Store

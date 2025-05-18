@@ -16,6 +16,6 @@ aviutlのような多くの人が自由に使い倒せるソフトを作りた�
 
 ```bash
 git clone https://github.com/gladiiiii/OpenVideoX.git
-cd HelloOpenVideoX/src/HelloOpenVideoX
+cd src/OpenVideoX
 dotnet restore
 dotnet run
